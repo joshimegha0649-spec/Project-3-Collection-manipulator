@@ -28,3 +28,15 @@ The program stores the following details:
 - Student Grade
 - Student Date of Birth
 - Student Subjects
+
+## Output
+
+![screenshot 1](1.jpg)
+![screenshot 2](2.jpg)
+![screenshot 3](3.jpg)
+![screenshot 4](4.jpg)
+![screenshot 5](5.jpg)
+![screenshot 6](6.jpg)
+![screenshot 7](7.jpg)
+![screenshot 8](8.jpg)
+![screenshot 9](9.jpg)
